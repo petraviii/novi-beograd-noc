@@ -1,0 +1,19 @@
+{
+  "name": "novi-beograd-noc",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "description": "PS1-style walking simulator set in Novi Beograd",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "vite": "8.3.8"
+  }
+}
